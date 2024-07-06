@@ -1,5 +1,3 @@
-# saco1-userstudy-SR
-
 ## Overview
 This repository is for the data and files analyzed in the paper "Shared Mental Models and Communication Interact to Improve Team Situation Awareness and Performance in Human-Robot Teams" in _Journal_.
 
