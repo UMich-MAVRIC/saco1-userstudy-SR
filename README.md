@@ -1,8 +1,9 @@
 # saco1-userstudy-SR
 
 ## Overview
+This repository is for the data and files analyzed in the paper "Shared Mental Models and Communication Interact to Improve Team Situation Awareness and Performance in Human-Robot Teams" in _Journal_.
 
-- Paper link: [Online version]() or [download PDF]()
+Paper: [Online version]() or [download PDF]()
 
 
 ## Data Files
@@ -39,3 +40,5 @@ The `paper` folder contains the LaTeX source files for the paper. Paper figures 
 
 ## Citation
 Please use the following citation:
+
+Arsha Ali, Jonathon M. Smereka, Kayla Riegner, Lionel P. Robert Jr., and Dawn Tilbury. Shared Mental Models and Communication Interact to Improve Team Situation Awareness and Performance in Human-Robot Teams. _Journal_, vol. x, no. x, pp. x--x, (2024). DOI: link
